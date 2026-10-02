@@ -6,11 +6,11 @@
 
 ### 👩‍💻 Hakkımda
 
-- 🎓 **Düzce Üniversitesi** Bilgisayar Mühendisliği lisans eğitimimi tamamladım[cite: 2].
-- 💻 **ASP.NET, C#, Flutter, SQL, HTML, CSS ve JavaScript** teknolojilerini kullanarak web ve mobil uygulama projeleri geliştiriyorum[cite: 2].
-- 📱 Kişiselleştirilmiş moda öneri sistemi, aşı takip sistemi ve proje yönetim panelleri gibi çeşitli projelerde deneyim kazandım[cite: 2, 3].
-- 🧠 Huawei Student Developers (HSD) ve Türkiye Yapay Zeka Akademisi'nde **Veri Bilimi ve Makine Öğrenmesi** üzerine eğitim aldım[cite: 3].
-- 🛡️ BTK Akademi üzerinden **Kali Linux** ve siber güvenlik eğitimleriyle kendimi geliştirmeye devam ediyorum[cite: 3].
+- 🎓 **Düzce Üniversitesi** Bilgisayar Mühendisliği lisans eğitimimi tamamladım.
+- 💻 **ASP.NET, C#, Flutter, SQL, HTML, CSS ve JavaScript** teknolojilerini kullanarak web ve mobil uygulama projeleri geliştiriyorum.
+- 📱 Kişiselleştirilmiş moda öneri sistemi, aşı takip sistemi ve proje yönetim panelleri gibi çeşitli projelerde deneyim kazandım.
+- 🧠 Huawei Student Developers (HSD) ve Türkiye Yapay Zeka Akademisi'nde **Veri Bilimi ve Makine Öğrenmesi** üzerine eğitim aldım.
+- 🛡️ BTK Akademi üzerinden **Kali Linux** ve siber güvenlik eğitimleriyle kendimi geliştirmeye devam ediyorum.
 - 💡 Problem çözme, ekip çalışması ve sürekli öğrenme odaklı bir geliştiriciyim[cite: 2].
 
 <br/>
