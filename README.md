@@ -11,7 +11,7 @@
 - 📱 Kişiselleştirilmiş moda öneri sistemi, aşı takip sistemi ve proje yönetim panelleri gibi çeşitli projelerde deneyim kazandım.
 - 🧠 Huawei Student Developers (HSD) ve Türkiye Yapay Zeka Akademisi'nde **Veri Bilimi ve Makine Öğrenmesi** üzerine eğitim aldım.
 - 🛡️ BTK Akademi üzerinden **Kali Linux** ve siber güvenlik eğitimleriyle kendimi geliştirmeye devam ediyorum.
-- 💡 Problem çözme, ekip çalışması ve sürekli öğrenme odaklı bir geliştiriciyim[cite: 2].
+- 💡 Problem çözme, ekip çalışması ve sürekli öğrenme odaklı bir geliştiriciyim.
 
 <br/>
 
